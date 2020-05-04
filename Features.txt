@@ -1,0 +1,301 @@
+General Module:
+* Bugreport command
+   * Set the channel for bug reports to be posted in
+* Help command
+   * Normal help menu that displays all commands
+   * Categorized help menu that displays one module’s commands at a time
+* IP command
+   * Set your Minecraft servers IP
+* Links command
+   * Add links that are related to your Discord server
+   * Add as many links as you want
+* Remindme command
+* Report command
+   * Set the channel for reports to be posted in
+* Status command
+   * Check the status of any minecraft server
+* Toggle general module on and off
+Ticket System:
+* New command
+* Add command
+* Remove command
+* Close command
+* Closeall command
+* Clean ticket transcripts 
+* Advanced ticket system
+* Ticket created log
+* User added to ticket log
+* User removed from ticket log
+* Ticket closed log
+* Toggle ticket system
+* Customizable ticket limit per user
+* Option to require a reason to be provided
+* Customizable ticket category
+* Customizable topic for tickets
+* Option to DM users the reason for their ticket to be closed
+* Close command confirmation option
+* Close all command confirmation option
+Application System:
+* Apply command
+   * Apply for a certain staff rank
+   * Separate applications with difference questions
+   * Use regular expressions to validate a response
+* React to accept application
+* React to deny application
+* React to close application
+* Application transcripts
+* Toggle application system on and off
+* Option to DM a user the final decision on their application
+Coin System:
+* Custom coin amount per message
+* Custom daily coins amount
+* Shop system
+* Customizable shop items
+   * Change name
+   * Change price
+   * Change description
+* Add as many shop items as you want
+* Work system
+   * Customizable jobs
+   * Job requirements
+   * Hourly pay setting
+   * Job shifts
+   * Work command
+   * Work cooldown
+   * Apply cooldown (Prevents users from working, leaving, reapplying, working, etc..)
+* Customizable coin top embed
+* Buy command
+* Coins command
+* Cointop command
+   * Cointop pages to see the position of all users in the server
+* Daily command
+* Pay command
+* Shop command
+* Slots command
+   * Fully customizable. Set the chances and coins for each slot emoji
+* Work command
+* Option to disable earning coins from running commands
+* Toggle coin system on and off
+Level System:
+* Custom XP amount per message
+* Customizable level roles (Get roles based on your level)
+* Customizable channel to announce level-ups in
+* Customizable level top embed
+* Level command
+* Leveltop command
+   * Leveltop pages to see the positon of all users in the server
+* Option to disable earning XP from running commands
+* Toggle level system on and off
+Giveaway System:
+* Customizable emoji used to join the giveaway
+* Max giveaways setting
+* Gcreate command
+* Gdelete command
+* Greroll command
+* Gstop command
+* Advanced giveaway handler
+* Giveaway timer variable that updates every minute to show the exact time a giveaway ends
+* Toggle giveaway system on and off
+Filter System:
+* Customizable bypass role
+* Add words to the blacklist
+* Message Filters 
+* Filter add command
+* Filter list command
+* Filter remove command
+* Toggle filter system on and off
+Moderation Module:
+* Ban command
+* Blacklist command
+* Clear command
+* History command
+* Kick Command
+* Lock command
+* Mute command
+* Removewarn command
+* Slowmode command
+* Tempban command
+* Tempmute command
+* Unban command
+* Unblacklist command
+* Unlock command
+* Unmute command
+* Warn command
+   * DM the user informing them of their warning
+* Warnings command
+* Logs for all punishments
+* Customizable mute role
+* Customizable blacklist role
+* Toggle moderation module on and off
+Admin Module:
+* Announce command
+   * Chose the channel to post announcements in
+   * Chose who to tag
+   * Set the title of the announcement
+   * Edit the format of announcement embeds
+* Createrole command
+* Deleterole command
+* Eval command
+* Give command
+   * Give coins
+   * Give experience
+   * Give roles
+* Msg command
+   * Send a message to a specific user through the bot
+   * Send a message to users with a certain role through the bot
+   * Send a message to all users in the guild through the bot
+   * Send a message to all open tickets through the bot
+* Prefix command
+* Rolemenu
+   * Reaction roles
+   * Create multiple, customizable role menus
+   * Use custom descriptions in the role menu
+* Say command
+* Take command
+   * Take coins
+   * Take experience
+   * Take roles
+* Topic command
+   * Set the topic of the current channel you’re typing in
+   * Set the topic of another channel by mentioning it
+* Update command
+   * Chose the channel to post updates in
+   * Chose who to tag
+   * Edit the format of update embeds
+* Vote command
+   * Chose custom emojis for the poll
+   * Set the channel for polls to be posted in
+* Staffhelp command
+   * Normal help menu that displays all commands
+   * Categorized help menu that displays one module’s commands at a time
+* Toggle admin module on and off
+Management Module:
+* Command command
+   * Disable or enable any command in the bot
+* Key command
+* Module command
+   * Disable or enable any module in the bot
+* Reset command
+   * Reset coins of a user
+   * Reset exp of a user
+* Setprefix command
+* Setstatus command
+* Reload command
+Join:
+* Multiple join roles
+* Welcome message
+* DM welcome message
+* Set channel for welcome message
+* Role-based invite rewards
+* Fully customizable join message
+* Toggle join messages, roles, and invite rewards on and off
+Leave:
+* Leave message
+* Fully customizable leave message
+* Set the channel for leave messages
+* Toggle leave messages on and off
+Anti-Advertisement System:
+* Block users from sending advertisements
+* Whitelist websites
+* Whitelist channels that allow ads
+* Bypass role
+* Check user status’s for ads
+* Toggle anti advertisement system on and off
+Server Backup System:
+* Save roles
+* Save channels
+* Save channel permissions
+* Protects against rogue staff members deleting channels & roles
+* Backup command
+* Toggle backup command on and off
+Verification System:
+* React to a message to get verified
+* You set the verification message
+* Custom emoji
+* Custom verified roles
+* Toggle verification system on and off
+Auto Response System:
+* Have the bot send a message when someone says a certain thing in chat
+* Can be used to create simple commands
+* Add as many auto-responses
+* Toggle auto-response on and off
+Temp Channels System:
+* Allow users to create temporary channels to chat with their friends in
+* Customizable join channel
+* Customizable category for all the temp channels
+* Toggle temp channels system on and off
+Suggestions System:
+* Suggest command
+* Accept suggestions
+* Deny suggestions
+* Reset suggestions
+* Customizable channels
+   * Set the channel for suggestions to go in
+   * Set the channel for accepted suggestions to go in
+   * Set the channel for denied suggestions to go in
+* Option to not allow users to upvote or downvote their own suggestion
+* Customizable emojis. Set the emojis to upvote, downvote, accept, etc.
+* Fully customize the way the suggestion embed looks
+* Types
+   * Normal: Use a command to suggest
+   * Revivenode: Type in the suggestions channel to suggest
+   * Both: Use both Normal and Revivenode types
+* Toggle suggestions system on and off
+Logs System:
+* Message edited logs
+   * Supports long messages
+* Message deleted logs
+   * Supports long messages
+* Chat logs
+   * Blacklist channels from showing up in log
+* Role added to user logs
+* Role removed from user logs
+* Command used logs
+* Nickname change logs
+* Channel created logs
+* Channel deleted logs
+* Channels pins updated logs
+Status Cycling System:
+* Set statuses for the bot to cycle through
+* Add as many statuses as you want
+* Set the interval between each status
+* Chose between ordered status cycling or random
+* Toggle status cycling on and off
+Other Module:
+* Avatar command
+* Coinflip command
+* Google command
+* Invites command
+* Invitetop command
+* Ping command
+* Roleinfo command
+* Rolldice command
+* Serverinfo command
+* Userinfo command
+Miscellaneous:
+* Role-based permissions system
+   * Uses inheritance
+   * Set roles with role name or ID
+* Set channels with channel name or ID
+* Add cooldowns for earning XP
+* Add cooldowns for earning coins
+* Add cooldowns for reporting users
+* Add cooldowns for ALL commands
+* Cooldown bypass role 
+* Option to require a commands channel
+* Option to allow commands in tickets
+* Set multiple channels where commands are allowed
+* Set a role that bypasses the commands channel
+* Invalid command message
+* SQLite storage type
+* MySQL storage type
+* Set the color of embeds
+* Set the color of error embeds
+* Set the color of success embeds
+* 100% configurable
+* Config.yml file
+* Lang.yml file
+   * Custom ALL the bot’s messages
+* Add your own custom addons
+* Add your own custom modules
+* Add your own custom commands
