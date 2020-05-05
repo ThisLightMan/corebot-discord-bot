@@ -1,0 +1,32 @@
+Name: DiscordStatus Addon
+Description: Add your discord server's stats into a voice channel
+Price: Free (Requires the Reviewer Role)
+
+Name: MCStatus Addon
+Description: Add your minecraft server's stats into a voice channel
+Price: Free (Requires the Reviewer Role)
+
+Name: Server Ping Addon
+Description: This addon adds a command to your bot where you can ping your servers (vps, websites, etc.)
+Disclaimer: This is not able to ping minecraft servers, you can use the status command for that
+Example: https://i.imgur.com/qbkRJyz.png
+Price: Free (Requires the Reviewer Role)
+
+Name: VCLogs Addon
+Description: Send a log to a customizable channel when someone joins or leaves a voice channel
+Price: Free (Requires the Reviewer Role)
+
+Name: Paypal Invoices Addon
+Description: Create paypal invoices with this addon
+Price: Free (Requires the Reviewer Role)
+
+Name: Ultimate Tickets Addon
+Description: Features:
+- Categories when opening tickets
+- React-to-open ticket embeds
+- Waiting and Responded categories
+- Tags
+- Transcripts with logs.corebot.dev or your own domain
+- Response Times
+- Auto Close after x hours (with notification)
+Price: $4 USD
