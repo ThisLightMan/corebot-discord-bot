@@ -9,7 +9,6 @@ Price: Free (Requires the Reviewer Role)
 Name: Server Ping Addon
 Description: This addon adds a command to your bot where you can ping your servers (vps, websites, etc.)
 Disclaimer: This is not able to ping minecraft servers, you can use the status command for that
-Example: https://i.imgur.com/qbkRJyz.png
 Price: Free (Requires the Reviewer Role)
 
 Name: VCLogs Addon
